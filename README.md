@@ -1,5 +1,7 @@
 # Calculator-iOS
 
+iOS calculator with auto-layout. With plus, minus, multiplication, division, plus AC(delete) button
+
 ### Screenshots
 
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/102688997/161703319-76ed3db8-6ae3-47e5-b8d4-8cf24a648ac6.png">
