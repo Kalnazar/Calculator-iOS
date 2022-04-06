@@ -1,6 +1,6 @@
 # Calculator-iOS
 
-iOS calculator with auto-layout. With plus, minus, multiplication, division, plus AC(delete) button
+iOS(Storyboard) calculator with auto-layout. With plus, minus, multiplication, division, plus AC(delete) button
 
 ### Screenshots
 
